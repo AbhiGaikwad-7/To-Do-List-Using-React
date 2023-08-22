@@ -1,3 +1,3 @@
 # To-Do-List-Using-React
 
-<img src="C:\Users\Administrator\Pictures\Screenshots\todo list.png?raw=true"/>
+<img src="https://github.com/AbhiGaikwad-7/To-Do-List-Using-React/blob/main/todo%20list.png"/>
